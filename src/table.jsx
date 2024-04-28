@@ -12,7 +12,7 @@ function PurchaseTable() {
     },
     {
       date: "25-02-2023",
-      description: "Payment of tax",
+      description: "Payment of taxes",
       category: "Tax",
       amount: 30000,
     },
