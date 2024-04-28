@@ -44,5 +44,5 @@ td {
 
 .Table th, td{
   overflow: auto; 
-  max-height: 50px; 
+  max-height: 500px; 
 }
