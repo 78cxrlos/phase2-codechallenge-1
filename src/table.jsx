@@ -6,7 +6,7 @@ function PurchaseTable() {
   const [expenses, setExpenses] = useState([
     {
       date: "15-01-2023",
-      description: "Paycheck from Tenant",
+      description: "Paycheck from Tenants",
       category: "Income",
       amount: 200000,
     },
